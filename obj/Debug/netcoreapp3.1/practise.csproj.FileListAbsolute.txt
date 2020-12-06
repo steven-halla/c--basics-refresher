@@ -1,0 +1,10 @@
+/Users/steve/Documents/CodingDojo/csharporm/practise/bin/Debug/netcoreapp3.1/practise.deps.json
+/Users/steve/Documents/CodingDojo/csharporm/practise/bin/Debug/netcoreapp3.1/practise.runtimeconfig.json
+/Users/steve/Documents/CodingDojo/csharporm/practise/bin/Debug/netcoreapp3.1/practise.runtimeconfig.dev.json
+/Users/steve/Documents/CodingDojo/csharporm/practise/bin/Debug/netcoreapp3.1/practise.dll
+/Users/steve/Documents/CodingDojo/csharporm/practise/bin/Debug/netcoreapp3.1/practise.pdb
+/Users/steve/Documents/CodingDojo/csharporm/practise/obj/Debug/netcoreapp3.1/practise.csprojAssemblyReference.cache
+/Users/steve/Documents/CodingDojo/csharporm/practise/obj/Debug/netcoreapp3.1/practise.AssemblyInfoInputs.cache
+/Users/steve/Documents/CodingDojo/csharporm/practise/obj/Debug/netcoreapp3.1/practise.AssemblyInfo.cs
+/Users/steve/Documents/CodingDojo/csharporm/practise/obj/Debug/netcoreapp3.1/practise.dll
+/Users/steve/Documents/CodingDojo/csharporm/practise/obj/Debug/netcoreapp3.1/practise.pdb
